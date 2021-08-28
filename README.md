@@ -12,6 +12,6 @@ there is two csv file one for Fake and other for Ture
 i have trainned a  Random Forest classifier model with 99% of accuracy and F1_score  and have used TfidfVectoriser for word vectorization
 
 there is file named munual_testing(jupyter notebook) run that on your computer and see how is is performing and also install the
-required library given in requirement.txt for the same before running
+required library given in requirements.txt for the same before running
 
 ***
